@@ -25,7 +25,6 @@ class Meal {
   final bool isLactoseFree;
   final bool isVegan;
   final bool isVegetarian;
-final bool flag;
 
   const Meal({
     @required this.id,
